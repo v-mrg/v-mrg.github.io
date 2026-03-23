@@ -2,33 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Collaborative Innovation Center</p>
+    <p>4720 Forbes Avenue</p>
+    <p>Pittsburgh, PA 15213</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<!-- bundle exec jekyll serve --trace --port 4001  -->
+I'm a 3rd year PhD student in the Electrical and Computer Engineering department at CMU. I work with [Prof. Swarun Kumar](), [Prof. Akshitha Sriraman](), and [Prof. Assane Gueye]() on satellite communications and connectivity for communities that need it most.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research is part of CMU's Moonshot Initiative to bring communication and compute to underserved and resource-constrained communities around the world. I'm drawn to problems where the technology already exists but the will — or the system design — to make it universally accessible does not. A lot of my work asks: what can we build on top of existing infrastructure, without requiring communities to wait for something new to be built for them?
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+One project I'm especially excited about is Ishara, an emergency alert system that uses existing Starlink satellites to reach people in areas with no cellular coverage. I've had the privilege of evaluating this system in both Pittsburgh and Rwanda, which has shaped how I think about building for real-world conditions rather than ideal ones. I also work on making regulatory systems less intimidating, through building LLM-based tools that achieve substantially higher accuracy than off-the-shelf models on [compliance]() and contradiction-detection tasks. In a previous life, I worked in robotics: I got my M.Eng. and B.S. from MIT, and my undergrad and Master's research was on using RL for robot navigation using semantic scene graphs as input. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am from Nairobi, Kenya, and community engagement has always felt inseparable from the research I do. I serve on the board of the MIT Africa Impact Fund, volunteer with MIT undergraduate admissions, and spend time with community organizations here in Pittsburgh.
