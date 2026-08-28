@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <!-- bundle exec jekyll serve --trace --port 4001  -->
-I'm a 3rd year PhD student in the Electrical and Computer Engineering department at CMU. I work with [Prof. Swarun Kumar](https://swarunkumar.com/), [Prof. Akshitha Sriraman](https://users.ece.cmu.edu/~asrirama/), and [Prof. Assane Gueye](https://ece.cmu.edu/directory/bios/gueye-assane.html) on satellite communications and connectivity for communities that need it most.
+I'm a 4th year PhD student in the Electrical and Computer Engineering department at CMU. I work with [Prof. Swarun Kumar](https://swarunkumar.com/), [Prof. Akshitha Sriraman](https://users.ece.cmu.edu/~asrirama/), and [Prof. Assane Gueye](https://ece.cmu.edu/directory/bios/gueye-assane.html) on satellite communications and connectivity for communities that need it most.
 
 My research is part of [CMU's Moonshot Initiative](https://www.ece.cmu.edu/news-and-events/story/2023/08/communication-and-compute-for-all.html) to bring communication and compute to underserved and resource-constrained communities around the world. I'm drawn to problems where the technology already exists but the will or the system design to make it universally accessible does not. A lot of my work asks: what can we build on top of existing infrastructure, without requiring communities to wait for something new to be built for them?
 
